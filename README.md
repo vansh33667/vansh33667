@@ -16,3 +16,7 @@ Building software that is simple, scalable, and impactful. Passionate about tran
 [![](https://komarev.com/ghpvc/?username=vansh33667&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
